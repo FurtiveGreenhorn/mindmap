@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Canvas from './components/Canvas';
+import Canvas from './Canvas';
 
 function App() {
   return (
